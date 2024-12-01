@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "LIQh62r9RW2HbSo1umijuD64SeRvFbEcN8gCV/iASgg=",
+  "Source": "HotelReservationBackend",
+  "BasePath": "_content/HotelReservationBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
