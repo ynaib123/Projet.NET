@@ -136,6 +136,7 @@ C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Deb
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.csproj.CoreCompileInputs.cache
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.sourcelink.json
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\scopedcss\bundle\HotelReservationBackend.styles.css
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\staticwebassets.development.json
@@ -152,3 +153,6 @@ C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Deb
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.pdb
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\HotelReservationBackend.genruntimeconfig.cache
 C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\obj\Debug\net9.0\ref\HotelReservationBackend.dll
+C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Youssef Naib\OneDrive\Bureau\Projet.NET\HotelReservationBackend\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
